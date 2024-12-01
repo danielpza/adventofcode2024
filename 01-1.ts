@@ -1,4 +1,4 @@
-// $ deno run 01.ts < 01.input
+// $ deno run 01-1.ts < 01-1.input
 // https://adventofcode.com/2024/day/1
 
 function problem(input: string) {
